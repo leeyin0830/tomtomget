@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/feifeibear/tomtomzhua.git 
+git clone git@github.com:leeyin0830/tomtomget.git
 pip install -r requirements.txt
 
 # Scraping from TOMTOM website the 'daily congestion index' for cities 
